@@ -38,7 +38,7 @@ export function App({title}) {
     }
   };
     
-const delate = () => {}
+
   
   return (
       <div className="cardWrap">
